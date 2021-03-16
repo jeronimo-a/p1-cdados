@@ -1,4 +1,4 @@
-Projeto 1 de Ciência dos Dados, 2021.1
+<b>Projeto 1 de Ciência dos Dados, 2021.1</b>
 
 Felipe Schiavinato e Jerônimo Afrange
 
